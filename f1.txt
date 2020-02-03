@@ -1,0 +1,3 @@
+this is the fist class of git
+it deals with basic commands
+hope youy will enjoy
